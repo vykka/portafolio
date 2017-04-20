@@ -1,0 +1,5 @@
+D:\Proyecto portafolio\ControlValesAlimentacion\CapaLogica\bin\Debug\CapaLogica.dll
+D:\Proyecto portafolio\ControlValesAlimentacion\CapaLogica\bin\Debug\CapaLogica.pdb
+D:\Proyecto portafolio\ControlValesAlimentacion\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+D:\Proyecto portafolio\ControlValesAlimentacion\CapaLogica\obj\Debug\CapaLogica.dll
+D:\Proyecto portafolio\ControlValesAlimentacion\CapaLogica\obj\Debug\CapaLogica.pdb

@@ -1,0 +1,8 @@
+D:\Proyecto portafolio\ControlValesAlimentacion\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyecto portafolio\ControlValesAlimentacion\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyecto portafolio\ControlValesAlimentacion\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Proyecto portafolio\ControlValesAlimentacion\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyecto portafolio\ControlValesAlimentacion\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyecto portafolio\ControlValesAlimentacion\CapaDatos\bin\Debug\CapaLogica.dll
+D:\Proyecto portafolio\ControlValesAlimentacion\CapaDatos\bin\Debug\Oracle.DataAccess.dll
+D:\Proyecto portafolio\ControlValesAlimentacion\CapaDatos\bin\Debug\CapaLogica.pdb
